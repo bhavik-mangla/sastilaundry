@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "376281322937",
+    "project_id": "sastilaundry",
+    "storage_bucket": "sastilaundry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376281322937:android:90442a858943f4fd231268",
+        "android_client_info": {
+          "package_name": "com.mavikdev.codedecoders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376281322937-39cs714te3819usebmur88b5te9lntra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ1lDyW4CRgZMuP57fbAK3CwAq66bQsI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376281322937-39cs714te3819usebmur88b5te9lntra.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "376281322937-4nplfv3i47dtvjbhvh0tlrgbpub85dgv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mavikdev.sastilaundry"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376281322937:android:84f8800444647f8c231268",
+        "android_client_info": {
+          "package_name": "com.mavikdev.sastilaundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376281322937-39cs714te3819usebmur88b5te9lntra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ1lDyW4CRgZMuP57fbAK3CwAq66bQsI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376281322937-39cs714te3819usebmur88b5te9lntra.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "376281322937-4nplfv3i47dtvjbhvh0tlrgbpub85dgv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mavikdev.sastilaundry"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
