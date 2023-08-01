@@ -1,6 +1,10 @@
 # sastilaundry
 
-A new Flutter project.
+Price and quantity management for a laundry service, helping lots of providers on campus.
+
+# Web Link
+
+https://sastilaundry.web.app/
 
 ## Getting Started
 
