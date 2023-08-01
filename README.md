@@ -1,4 +1,4 @@
-# sastilaundry
+# SastiLaundry
 
 Price and quantity management for a laundry service, helping lots of providers on campus.
 
